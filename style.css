@@ -1,3 +1,7 @@
+body{
+  font-family: sans-serif;
+}
+
 .lila{
   background-color: hsl(260 70% 50% / 1);
 }
@@ -8,4 +12,22 @@
 
 p, a{
   color: white;
+}
+
+.btn-lila{
+  background-color: #532d9f;
+  color: white;
+}
+.btn-lila:hover{
+  background-color: #6226d9 !important; 
+}
+.textgrey{
+  color: #bfbfbf;
+}
+
+.textlila{
+  color: hsl(260 70% 50% / 1);
+}
+.textgreysecond{
+  color: #737373;
 }
